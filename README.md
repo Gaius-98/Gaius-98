@@ -2,6 +2,7 @@
 我是一名前端开发工程师。我热衷于开源项目和技术分享，喜欢通过博客和项目实践来提升自己的技术水平。
 我的[博客](https://gaius-98.github.io/gaius-blog/)主要展示一些开源项目信息、技术文章以及学习文档，欢迎访问交流！
 
+访问记录<a href="https://info.flagcounter.com/oJHk"><img src="https://s05.flagcounter.com/mini/oJHk/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0"></a>
 ### 项目展示
 **1.Quick-Build 低代码平台**
 
